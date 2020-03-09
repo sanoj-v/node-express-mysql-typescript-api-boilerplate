@@ -5,19 +5,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
-<p align="center">
-  
-  <h2 align="center">NODE EXPRESS TYPESCRIPT boilerplate (+ typeorm)</h2>
-
-  <p align="center">
-    A boilerplate for Node.js web applications.
-    <br />
-    <br />
-    <a href="https://github.com/a7urag/node-express-mysql-typescript-api-boilerplate/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/a7urag/node-express-mysql-typescript-api-boilerplate/issues">Request Feature</a>
-  </p>
-</p>
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
