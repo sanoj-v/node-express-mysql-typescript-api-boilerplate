@@ -112,5 +112,5 @@ PS: using `pm2` for production environment
 [issues-shield]: https://img.shields.io/github/issues/a7urag/node-express-mysql-typescript-api-boilerplate.svg?style=flat-square
 [issues-url]: https://github.com/a7urag/node-express-mysql-typescript-api-boilerplate/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/a7urag/
+[linkedin-url]: https://in.linkedin.com/in/sanoj-vishwakarma-845a8191
 [product-screenshot]: images/screenshot.png
