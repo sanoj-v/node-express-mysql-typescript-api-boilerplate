@@ -91,9 +91,9 @@ PS: using `pm2` for production environment
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [forks-shield]: https://img.shields.io/github/forks/sanoj-v/node-express-mysql-typescript-api-boilerplate.svg?style=flat-square
 [forks-url]: https://github.com/sanoj-v/node-express-mysql-typescript-api-boilerplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/a7urag/node-express-mysql-typescript-api-boilerplate.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/sanoj-v/node-express-mysql-typescript-api-boilerplate.svg?style=flat-square
 [stars-url]: https://github.com/sanoj-v/node-express-mysql-typescript-api-boilerplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/a7urag/node-express-mysql-typescript-api-boilerplate.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/sanoj-v/node-express-mysql-typescript-api-boilerplate.svg?style=flat-square
 [issues-url]: https://github.com/sanoj-v/node-express-mysql-typescript-api-boilerplate/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://in.linkedin.com/in/sanoj-vishwakarma-845a8191
